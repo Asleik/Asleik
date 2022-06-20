@@ -1,9 +1,6 @@
 - 👋 Hi, I’m Diego @Asleik Pattini
 - 🌱 I’m currently learning Python
 - 👀 I’m interested in Data Science
-- 💞️ I’m looking for a job or internship
-- 📫 How to reach me: Send me an email
-
 
 
 | Projects | Description | Status | Link |
