@@ -4,7 +4,7 @@ I’m Diego @Asleik Pattini
 
 | Projects | Description | Status | Link |
 |----------|-------------|--------|------|
-|OpenAOEDS| It's an implementation of the game Age of Empires: The Age of Kings to pc, made with Godot. | active |  |
+|OpenAOEDS| It's an implementation of the game Age of Empires: The Age of Kings to pc, made with Godot. | on pause |  |
 
 
 
